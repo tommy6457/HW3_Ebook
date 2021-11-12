@@ -525,7 +525,7 @@
                                         <rect key="frame" x="20" y="249.5" width="374" height="100"/>
                                         <autoresizingMask key="autoresizingMask"/>
                                         <tableViewCellContentView key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" insetsLayoutMarginsFromSafeArea="NO" tableViewCell="w3x-1g-kYg" id="qAA-7F-aj3">
-                                            <rect key="frame" x="0.0" y="0.0" width="316" height="100"/>
+                                            <rect key="frame" x="0.0" y="0.0" width="312.5" height="100"/>
                                             <autoresizingMask key="autoresizingMask"/>
                                             <subviews>
                                                 <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="dog1" translatesAutoresizingMaskIntoConstraints="NO" id="8bu-Fu-4lL">
@@ -558,7 +558,7 @@
                                         <rect key="frame" x="20" y="349.5" width="374" height="100"/>
                                         <autoresizingMask key="autoresizingMask"/>
                                         <tableViewCellContentView key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" insetsLayoutMarginsFromSafeArea="NO" tableViewCell="3Ae-Rn-QfC" id="2Jh-6Y-0Za">
-                                            <rect key="frame" x="0.0" y="0.0" width="316" height="100"/>
+                                            <rect key="frame" x="0.0" y="0.0" width="312.5" height="100"/>
                                             <autoresizingMask key="autoresizingMask"/>
                                             <subviews>
                                                 <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="dog2" translatesAutoresizingMaskIntoConstraints="NO" id="Wkg-2U-31d">
@@ -591,7 +591,7 @@
                                         <rect key="frame" x="20" y="449.5" width="374" height="100"/>
                                         <autoresizingMask key="autoresizingMask"/>
                                         <tableViewCellContentView key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" insetsLayoutMarginsFromSafeArea="NO" tableViewCell="CqN-lJ-kmD" id="ZLK-NT-lJE">
-                                            <rect key="frame" x="0.0" y="0.0" width="316" height="100"/>
+                                            <rect key="frame" x="0.0" y="0.0" width="312.5" height="100"/>
                                             <autoresizingMask key="autoresizingMask"/>
                                             <subviews>
                                                 <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="dog3" translatesAutoresizingMaskIntoConstraints="NO" id="qyg-jd-EpP">
@@ -781,7 +781,7 @@
                             <imageView clipsSubviews="YES" userInteractionEnabled="NO" alpha="0.55000001192092896" contentMode="scaleAspectFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="dog3" translatesAutoresizingMaskIntoConstraints="NO" id="hFl-3Q-Vgv">
                                 <rect key="frame" x="0.0" y="0.0" width="414" height="671"/>
                             </imageView>
-                            <textView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" editable="NO" text="比基尼" textAlignment="natural" translatesAutoresizingMaskIntoConstraints="NO" id="lOJ-ts-Xdz">
+                            <textView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" editable="NO" text=" 汪！我叫比基尼。  資料來源：https://www.instagram.com/bikini0318/" textAlignment="natural" translatesAutoresizingMaskIntoConstraints="NO" id="lOJ-ts-Xdz">
                                 <rect key="frame" x="30" y="335" width="354" height="306"/>
                                 <color key="backgroundColor" red="0.68235294120000001" green="0.68235294120000001" blue="0.69803921570000005" alpha="0.5" colorSpace="custom" customColorSpace="sRGB"/>
                                 <color key="textColor" systemColor="labelColor"/>
